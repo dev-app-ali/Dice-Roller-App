@@ -15,5 +15,5 @@
 
 
 
+<img src="https://github.com/dev-app-ali/Dice-Roller-App/assets/121374194/5dd95027-993c-4f44-accc-4e957f9baceb" width= "300">
 
-![Screenshot_1714321206](https://github.com/dev-app-ali/Dice-Roller-App/assets/121374194/5dd95027-993c-4f44-accc-4e957f9baceb)
